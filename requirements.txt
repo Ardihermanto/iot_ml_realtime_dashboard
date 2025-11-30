@@ -7,10 +7,5 @@ plotly==5.18.0
 scikit-learn==1.6.1
 
 
-# untuk menjalankan instal library di atas, gunakan perintah berikut di terminal:
-# python -m pip install -r requirements.txt
 
-# pip install streamlit paho-mqtt pandas plotly joblib
-
-# python -m pip install streamlit pandas numpy plotly paho-mqtt joblib streamlit-autorefresh
 
